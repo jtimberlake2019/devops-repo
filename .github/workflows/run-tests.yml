@@ -6,7 +6,7 @@ on:
       - session-1
   pull_request:
     branches:
-      - main
+      - mai
 
 jobs:
   test:
